@@ -1,2 +1,2 @@
-# Data
-Repositorio para guardar projetos de Dados
+# Resumo do Projeto
+A doença cardiovascular (DCV) é uma adversidade que afeta o coração e os vasos sanguíneos, e estima-se que 17,9 milhões de pessoas morreram em 2019 (WHO, 2021). A crescente importância da análise de dados em informática médica despertou o interesse na geração de modelos analíticos em aprendizado de máquina (ML).  A previsão de DCV é um desafio complexo e a classificação usando ML desempenhará um papel importante na previsão e investigação de doenças cardíacas para mitigar os efeitos cardíacos e evitar a mortes prematuras. O objetivo deste trabalho é analisar dados treinando com Machine Learning e o algoritmo de Regressão Logística para avaliar modelos e aprendizado profundo para prever diagnósticos de doenças cardiovasculares.
